@@ -1,77 +1,34 @@
-///////////////////////////////////////
-// Lecture: Hoisting
 
 
 
+// function calcAge(year) {
+//     console.log(2016-year);
+//     console.log(this);
+// }
+
+// calcAge(1985);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-///////////////////////////////////////
-// Lecture: Scoping
-
-
-// First scoping example
-
-/*
-var a = 'Hello!';
-first();
-
-function first() {
-    var b = 'Hi!';
-    second();
-
-    function second() {
-        var c = 'Hey!';
-        console.log(a + b + c);
+let john = {
+    name: `John`,
+    yearOfBirth: 1990,
+    calcAge: function () {
+        console.log(this);
+        console.log(2018-this.yearOfBirth);
+        // function innerFunct() {
+        //     console.log(this);            
+        // }
+        // innerFunct();
     }
-}
-*/
+};
 
+john.calcAge(); 
 
-
-// Example to show the differece between execution stack and scope chain
-
-/*
-var a = 'Hello!';
-first();
-
-function first() {
-    var b = 'Hi!';
-    second();
-
-    function second() {
-        var c = 'Hey!';
-        third()
-    }
+let mike = {
+    name: `Mike`,
+    yearOfBirth: 1984,
 }
 
-function third() {
-    var d = 'John';
-    console.log(a + b + c + d);
-}
-*/
+mike.calcAge = john.calcAge;
 
-
-
-///////////////////////////////////////
-// Lecture: The this keyword
-
-
-
-
-
-
-
-
-
+mike.calcAge();

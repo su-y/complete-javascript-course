@@ -1,0 +1,2910 @@
+{
+    "data": {
+        "contracts": {
+            "total": 114,
+            "edges": [
+                {
+                    "node": {
+                        "title": "1/2-19 Lea Jelstad",
+                        "createdAt": 1547203167,
+                        "signedAt": null,
+                        "expiresAt": 1549017567,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Lea Jelstad",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA8DFAzoJbmFtZUkiEExlYSBKZWxzdGFkBjoGRVQ%253D--14c95bf39acbd000bb92d30637c9414287109ba514be038dfe2a5eb2afd440fa.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14427 København - Købmagergade 22 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Cindie Chuabwasdi",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA3hvAjoJbmFtZUkiFkNpbmRpZSBDaHVhYndhc2RpBjoGRVQ%253D--2ce8bed3332a8c9e3b02d251fcb5e81fe6018dd46f328d2c32f72790526635b8.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72880",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "110119Dorthee",
+                        "createdAt": 1547202828,
+                        "signedAt": null,
+                        "expiresAt": 1549017228,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Dorthee Harnfeldt",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAz7jAzoJbmFtZUkiFkRvcnRoZWUgSGFybmZlbGR0BjoGRVQ%253D--a8434e40dacc8262c7521ea7bcd38ac59e9a156417c99f7c9e043eaad4bb9eb6.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "17752 Roskilde - Algade 39 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Charlotte Højer Kylov",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2NsAjoJbmFtZUkiG0NoYXJsb3R0ZSBIw7hqZXIgS3lsb3YGOgZFVA%253D%253D--3b0ecee92e9ea5512e3994d8b7d958e036f5822571306b3384e995125c67f5fd.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72879",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010419 Seval",
+                        "createdAt": 1547201857,
+                        "signedAt": null,
+                        "expiresAt": 1549016257,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Seval Olcer",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzrjAzoJbmFtZUkiEFNldmFsIE9sY2VyBjoGRVQ%253D--93f6175ecd295202f801aafb4f87b51a7d9b66ca8b776b6017d04bace650cfb4.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "17780 Roskilde - Ro's Torv (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Kristine Praëm Hansen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxBrAjoJbmFtZUkiG0tyaXN0aW5lIFByYcOrbSBIYW5zZW4GOgZFVA%253D%253D--19a9f5482ca3f92c65bb13cb210dcb1a5aec9da40123ece7f9425d0f5019d748.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72878",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "1/10-18 Mette Orbe",
+                        "createdAt": 1547200657,
+                        "signedAt": null,
+                        "expiresAt": 1549015057,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Mette Orbe",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAy5uAjoJbmFtZUkiD01ldHRlIE9yYmUGOgZFVA%253D%253D--ace1ef1e8efb7bacc729f75c3b2853b82af0efc9b5aac6735886ccfb6c4edd2b.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14028 København - Amager Centret 117 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Tina Joan Sørensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwJsAjoJbmFtZUkiGFRpbmEgSm9hbiBTw7hyZW5zZW4GOgZFVA%253D%253D--91dac84da413677c6016ee3a12bd60f88b7635394af123e56d7d81dcc5c6917d.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72874",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010119 Camille B Jensen BC",
+                        "createdAt": 1547131585,
+                        "signedAt": null,
+                        "expiresAt": 1548945985,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Camille Bjerre Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA6xuAjoJbmFtZUkiGkNhbWlsbGUgQmplcnJlIEplbnNlbgY6BkVU--fb7ed66824808b6e71c4a332dc837814dc7cad967797d5ba7d2cb78eccfa0623.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14040 København - Fields (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Henrik Flagstad Therkildsen",
+                            "avatar": "https://test10.samesystem.com/user/picture_filename/157622/Sol.png?1519814024",
+                            "__typename": "User"
+                        },
+                        "id": "72823",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "110219Pernille",
+                        "createdAt": 1547109506,
+                        "signedAt": null,
+                        "expiresAt": 1548923906,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Pernille Andreassen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA6%252FiAzoJbmFtZUkiGFBlcm5pbGxlIEFuZHJlYXNzZW4GOgZFVA%253D%253D--874c7e881d700219dc8805b4b324585cfcd4cb89461be18edd3948ec0949efb6.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10591 Borup - Hovedgaden 62 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Charlotte Højer Kylov",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2NsAjoJbmFtZUkiG0NoYXJsb3R0ZSBIw7hqZXIgS3lsb3YGOgZFVA%253D%253D--3b0ecee92e9ea5512e3994d8b7d958e036f5822571306b3384e995125c67f5fd.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72752",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "090119Anne",
+                        "createdAt": 1547035762,
+                        "signedAt": null,
+                        "expiresAt": 1548850162,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Anne Bruun (Kristine)",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252BKoAzoJbmFtZUkiGkFubmUgQnJ1dW4gKEtyaXN0aW5lKQY6BkVU--c1b3c4c030dfc9aeaab894bff1d313adb7b25785bc237705011ed44c1d0674da.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "17752 Roskilde - Algade 39 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Charlotte Højer Kylov",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2NsAjoJbmFtZUkiG0NoYXJsb3R0ZSBIw7hqZXIgS3lsb3YGOgZFVA%253D%253D--3b0ecee92e9ea5512e3994d8b7d958e036f5822571306b3384e995125c67f5fd.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72573",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "090119Lene",
+                        "createdAt": 1547035444,
+                        "signedAt": null,
+                        "expiresAt": 1548849844,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Lene Wehlast",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA6jSAzoJbmFtZUkiEUxlbmUgV2VobGFzdAY6BkVU--8f304d6106303233ac37b3a972e944725ef891d2a94d00cc24c7849e5dace1dd.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10591 Borup - Hovedgaden 62 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Charlotte Højer Kylov",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2NsAjoJbmFtZUkiG0NoYXJsb3R0ZSBIw7hqZXIgS3lsb3YGOgZFVA%253D%253D--3b0ecee92e9ea5512e3994d8b7d958e036f5822571306b3384e995125c67f5fd.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72571",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "01032019 Katrine Egeriis Monefeldt",
+                        "createdAt": 1546973299,
+                        "signedAt": null,
+                        "expiresAt": 1548787699,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Katrine Egeriis Monefeldt",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAyfiAzoJbmFtZUkiHkthdHJpbmUgRWdlcmlpcyBNb25lZmVsZHQGOgZFVA%253D%253D--8bf765b8d0c07d987847354cbe56a92c9db356b1280020d2a040685931512616.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14350 Rødovre - Rødovre Centrum (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Pia Sommer",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAz5uAjoJbmFtZUkiD1BpYSBTb21tZXIGOgZFVA%253D%253D--1c5b63c34510b4aa2a450e7f285f5bb0fbbbb661020efcc362c776a4c9586b3a.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72463",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Nanna Lind Bjerre",
+                        "createdAt": 1546931165,
+                        "signedAt": null,
+                        "expiresAt": 1548745565,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Nanna Lind Bjerre",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA99wAjoJbmFtZUkiFk5hbm5hIExpbmQgQmplcnJlBjoGRVQ%253D--88c03052c3ad6b8dd99a10cbfcf300f00ffee7aaf6df49624ba51e5b464d4720.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "16985 Odder - Gågaden 27 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Louise Lykke Nielsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA9hwAjoJbmFtZUkiGUxvdWlzZSBMeWtrZSBOaWVsc2VuBjoGRVQ%253D--e4057e7a021d6ecdbccb50324ff8ed7b987e3fc83ccb8c531cddbfdfb05b842d.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72388",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "07.01.19 Sophie",
+                        "createdAt": 1546864715,
+                        "signedAt": null,
+                        "expiresAt": 1548679115,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "sophie ranch",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA8XLAzoJbmFtZUkiEXNvcGhpZSByYW5jaAY6BkVU--e4d6e251a4de05254c34d17c7c82086e3f36376ab0ed37960bbf80b474c27aa9.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14200 København - Nytorv 3 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Karina Kerstein Nielsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA6luAjoJbmFtZUkiHEthcmluYSBLZXJzdGVpbiBOaWVsc2VuBjoGRVQ%253D--8186221fd4d8637ca41055cfaa2ce68bcdb3a43250194399e6e3f601ef53e162.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72351",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Mie",
+                        "createdAt": 1546860183,
+                        "signedAt": null,
+                        "expiresAt": 1548674583,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Mie Almy Martins",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA67aAzoJbmFtZUkiFU1pZSBBbG15IE1hcnRpbnMGOgZFVA%253D%253D--c7b3bab84526491b3bb564a3daa56a8283e0f4006e165bcec87d5382df2da739.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "19571 Ølby - Torvecenter 27 (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Mette Johansen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA8nhAjoJbmFtZUkiE01ldHRlIEpvaGFuc2VuBjoGRVQ%253D--cc19cf912896e7c1f079e5fe61d77fd78dbbafd1823761a8fab7ecb62c85212e.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72339",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "elin",
+                        "createdAt": 1546815631,
+                        "signedAt": null,
+                        "expiresAt": 1548630031,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Elin Fogt Reumert",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0DcAzoJbmFtZUkiFkVsaW4gRm9ndCBSZXVtZXJ0BjoGRVQ%253D--17130d3c2f3262ba2345a88596e4a92844a21a434a33175520dbbe7f004ba6cb.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12526 Hillerød - Slotsarkaderne (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Marianne Petersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA4psAjoJbmFtZUkiFk1hcmlhbm5lIFBldGVyc2VuBjoGRVQ%253D--47b43283254386adcc879ab02aa60bcf7f0b3b2b808c97b5a604eb0167336339.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72302",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "03012019KayaBroholm",
+                        "createdAt": 1546523284,
+                        "signedAt": null,
+                        "expiresAt": 1548337684,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Kaya Betina Broholm",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAx3LAzoJbmFtZUkiGEtheWEgQmV0aW5hIEJyb2hvbG0GOgZFVA%253D%253D--b16d5ef96275f2c7dced6d18fee25d3a07a2f754653f9d38064e5cc0479340ee.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11622 Greve Strand - Waves (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Charlotte Bjerknæs Thomsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2xrAjoJbmFtZUkiIENoYXJsb3R0ZSBCamVya27DpnMgVGhvbXNlbgY6BkVU--41eb699f4bc412abf8d2535f5c2669b1d27b57b3b49ac53800b2f3a5a94cf6b8.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72135",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "03012019Silan",
+                        "createdAt": 1546523185,
+                        "signedAt": null,
+                        "expiresAt": 1548337585,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Silan Sagici",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwLLAzoJbmFtZUkiEVNpbGFuIFNhZ2ljaQY6BkVU--0c228e88608a25f7675e32e78d78680fe2de7b207125172293227a17b4419952.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11622 Greve Strand - Waves (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Charlotte Bjerknæs Thomsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2xrAjoJbmFtZUkiIENoYXJsb3R0ZSBCamVya27DpnMgVGhvbXNlbgY6BkVU--41eb699f4bc412abf8d2535f5c2669b1d27b57b3b49ac53800b2f3a5a94cf6b8.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72134",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Caroline Bræstrup",
+                        "createdAt": 1546504399,
+                        "signedAt": null,
+                        "expiresAt": 1548318799,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Caroline Bille Bræstrup",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA01yAjoJbmFtZUkiHUNhcm9saW5lIEJpbGxlIEJyw6ZzdHJ1cAY6BkVU--aa6c5b4e6879e0b6f64ab874582e9b10faebaa92c5b2213a698e8b5fdf62a85b.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "18310 Tranbjerg - Kirketorvet 6 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Stine Krenk",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA8OKAzoJbmFtZUkiEFN0aW5lIEtyZW5rBjoGRVQ%253D--34d8eaddb8a968b6861f94a39675bdfb141f982b239a804d98cf1b274be164ca.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "72054",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Camilla Brun Borchorst",
+                        "createdAt": 1546425407,
+                        "signedAt": null,
+                        "expiresAt": 1548239807,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Camilla Brun Borchorst",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7nHAzoJbmFtZUkiG0NhbWlsbGEgQnJ1biBCb3JjaG9yc3QGOgZFVA%253D%253D--5b7d3551220fe79916d936df21ab70331b16371985eb415c8601193c3669c234.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11509 Fredensborg - Jernbanegade 26 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Camilla Stubtoft Petersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzJrAjoJbmFtZUkiHkNhbWlsbGEgU3R1YnRvZnQgUGV0ZXJzZW4GOgZFVA%253D%253D--b24db987ee35e58bd050711f0ef68ea77e8f6bd535f75b4aca4e205a2a816464.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "71701",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "281218 Lærke Aggerholm",
+                        "createdAt": 1546005279,
+                        "signedAt": null,
+                        "expiresAt": 1547819679,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Lærke Aggerholm",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0ZrAjoJbmFtZUkiFUzDpnJrZSBBZ2dlcmhvbG0GOgZFVA%253D%253D--35cc8c1d84676fb2d774e824acc3261a308f1b1be1605fba369fcdd7ef51bd5f.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14070 Frederiksberg Centeret (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Randi Linde Sørensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA31uAjoJbmFtZUkiGlJhbmRpIExpbmRlIFPDuHJlbnNlbgY6BkVU--05106f9bfcf0a99e4a93db58d874e00a46957426b88bdc299c022e74ed0d45cd.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "71508",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010119",
+                        "createdAt": 1545385626,
+                        "signedAt": null,
+                        "expiresAt": 1547200026,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Line Daniella Christoffersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FYxAzoJbmFtZUkiIUxpbmUgRGFuaWVsbGEgQ2hyaXN0b2ZmZXJzZW4GOgZFVA%253D%253D--7e4e6817807bff916e710d149a6ced8703ae25e777035037bf4c77c54d7a9ff2.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "15261 Lyngby - Lyngby Hovedgade 47 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Christina Josephine Haldrup Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA4J3AjoJbmFtZUkiJ0NocmlzdGluYSBKb3NlcGhpbmUgSGFsZHJ1cCBKZW5zZW4GOgZFVA%253D%253D--fed2527bad10063fc93625a7713e5ee3a8f30daa89e5167928012de5fd22db1c.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "71131",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "01-04-2019 Ea",
+                        "createdAt": 1545299085,
+                        "signedAt": null,
+                        "expiresAt": 1547113485,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Ea Dehn Marthinussen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAymHAzoJbmFtZUkiGUVhIERlaG4gTWFydGhpbnVzc2VuBjoGRVQ%253D--06bf6c48a9eb644737d9720437793db1f1f87c36e98c89acec2ccda4644c98c3.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12629 Humlebæk - Humlebæk Center (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Johnny Borup",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA791AjoJbmFtZUkiEUpvaG5ueSBCb3J1cAY6BkVU--8651d519a41922f8081832e6b91549dfd05541f885268901196e5c16a1a831ee.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "70995",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "271218 Christina Samuelsen",
+                        "createdAt": 1544780079,
+                        "signedAt": null,
+                        "expiresAt": 1546594479,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Christina Samuelsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA53WAzoJbmFtZUkiGENocmlzdGluYSBTYW11ZWxzZW4GOgZFVA%253D%253D--cf7cf888246719aaf237b2d236c5719a7b823755d1e8dd77169b34f5cc6cfc6b.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "18503 Skagen - Sct. Laurentiivej 45 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Mary Møllebro",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA1h1AjoJbmFtZUkiE01hcnkgTcO4bGxlYnJvBjoGRVQ%253D--d47af7cea694d3570f9f52dc20d9cbcc310372ee5fb1974434ae74d32648b649.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "70591",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "011218-Christine",
+                        "createdAt": 1544691319,
+                        "signedAt": null,
+                        "expiresAt": 1546505719,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Christine Hauberg Engsig",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA8fNAzoJbmFtZUkiHUNocmlzdGluZSBIYXViZXJnIEVuZ3NpZwY6BkVU--ad1b57e2a3175ade6b5007b6f3af32195a6b5ec794c704ab15744449ddf7cd70.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11542 Frederikshavn - Søndergade 6 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Charlotte Christensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA1RrAjoJbmFtZUkiGkNoYXJsb3R0ZSBDaHJpc3RlbnNlbgY6BkVU--207398405775614ba66656684d951c68843847d093faff664118d2705eb4f69f.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "70439",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "011218",
+                        "createdAt": 1543507175,
+                        "signedAt": null,
+                        "expiresAt": 1545321575,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Sara Atwi",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwvRAzoJbmFtZUkiDlNhcmEgQXR3aQY6BkVU--9d4106204b7126eeaa72599e9a89bd742ac33814db67dc5518ffc6d92bf140f5.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12875 Hellerup - Waterfront (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Lotte Vendelbo Sørensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FhxAjoJbmFtZUkiHUxvdHRlIFZlbmRlbGJvIFPDuHJlbnNlbgY6BkVU--f4003c00a0e33a82af277da4a05733afc9a92c0a38b2c408d5db796bc2b0fee4.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "69363",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010918 Sarah Enggaard Elley",
+                        "createdAt": 1543412265,
+                        "signedAt": null,
+                        "expiresAt": 1545226665,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Sarah Enggaard Elley",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxdsAjoJbmFtZUkiGVNhcmFoIEVuZ2dhYXJkIEVsbGV5BjoGRVQ%253D--0bc9a9a7de9182f60230c2ef11152f4cd67d18e88482fa241c1c8685df98d679.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12297 Herning - Bredgade 3 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Birgit Krog",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxVsAjoJbmFtZUkiEEJpcmdpdCBLcm9nBjoGRVQ%253D--bbe852cb5efae0f85f4b2832b773d8546173a2a04cd43544c3ccba233961f08f.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "69159",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "081118 Habiba",
+                        "createdAt": 1543396402,
+                        "signedAt": null,
+                        "expiresAt": 1545210802,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Habiba Atwi",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0JJAzoJbmFtZUkiEEhhYmliYSBBdHdpBjoGRVQ%253D--132e4b34ff7636ccd7333cbdb6d729baa13f98f1341405aef94c9e50f98772ff.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12211 Hellerup - Strandvejen 88 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Tine R. Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FdrAjoJbmFtZUkiE1RpbmUgUi4gSmVuc2VuBjoGRVQ%253D--83f536b432d2fe33e54f9f3a7ea14123ba6eb43f0d70b4e73d22923f4d8f0a12.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "69063",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Iben 03-12-2018",
+                        "createdAt": 1543234609,
+                        "signedAt": null,
+                        "expiresAt": 1545049009,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Iben Møldrup",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7HNAzoJbmFtZUkiEkliZW4gTcO4bGRydXAGOgZFVA%253D%253D--8df928c37de9e474d4bed0ca6095d8d06c014df16daf12b448c5b1c73969471f.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "17612 Risskov - Veri Center (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Marianne Dahl Haugsted",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2NrAjoJbmFtZUkiG01hcmlhbm5lIERhaGwgSGF1Z3N0ZWQGOgZFVA%253D%253D--c1e28d4a102a4b45ed0f39ff6f21799cc31ca8f69424eab9da190670c95eb116.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "68917",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "KIt",
+                        "createdAt": 1542363046,
+                        "signedAt": null,
+                        "expiresAt": 1544177446,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 1,
+                        "employee": {
+                            "name": "Kit Lykke Brøgger",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxZkAzoJbmFtZUkiF0tpdCBMeWtrZSBCcsO4Z2dlcgY6BkVU--27b8ad99f2502e03eb2b937247460f7b7b3bc11fa8fa68aab0b7f0b2773f977b.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "19518 Værløse - Bymidten 9 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Martina Bengtsson",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzjEAjoJbmFtZUkiFk1hcnRpbmEgQmVuZ3Rzc29uBjoGRVQ%253D--368d87bf68b1f5fdc7ed4c6894faad10458903ad3ac679c04cf3f0a3e7b77912.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "68035",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Karoline Kjær 10-11-18",
+                        "createdAt": 1541842825,
+                        "signedAt": null,
+                        "expiresAt": 1543657225,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Karoline Kjær",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzjFAzoJbmFtZUkiE0thcm9saW5lIEtqw6ZyBjoGRVQ%253D--36e5a4ba6063852ada37aab6499f726dbc462ea53b1eb4fd440392bb2acd76c4.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12769 Holstebro - Nørregade 16 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Marlene Rudolph Gregersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAyFtAjoJbmFtZUkiHk1hcmxlbmUgUnVkb2xwaCBHcmVnZXJzZW4GOgZFVA%253D%253D--09fa826b795f06f6376e1475acfdc53ffb38e1e4dc94bbc7afe484ecf4e44cc2.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "67401",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "201118 Alberte",
+                        "createdAt": 1541252507,
+                        "signedAt": null,
+                        "expiresAt": 1543066907,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Alberte Rasmussen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA14eAzoJbmFtZUkiFkFsYmVydGUgUmFzbXVzc2VuBjoGRVQ%253D--0225d5c2ace22aebaed5504775cebcbff8945e2c7db300c755cc174f7bcf1c5c.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11037 Odense SV - Dalumcentret (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Charlotte Sølling Skovbølling",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7NqAjoJbmFtZUkiJENoYXJsb3R0ZSBTw7hsbGluZyBTa292YsO4bGxpbmcGOgZFVA%253D%253D--2674b8a0d3f115a48221c750d5ae6f6ae0872e7a7d58f84e973f0691b67b2316.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "66581",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Julehjælp ",
+                        "createdAt": 1541151464,
+                        "signedAt": null,
+                        "expiresAt": 1542965864,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Josephine Schrøder Rützou",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzK%252FAzoJbmFtZUkiIEpvc2VwaGluZSBTY2hyw7hkZXIgUsO8dHpvdQY6BkVU--b84d9418f3e03ef8314fc61fb62a3ad6915805d8f8e5b209216fca804704c4d0.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12522 Hillerød - Slotsgade 11 (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Caroline Schrøder Rützou",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzBqAjoJbmFtZUkiH0Nhcm9saW5lIFNjaHLDuGRlciBSw7x0em91BjoGRVQ%253D--93bf0c7173b4bd27c129e34d8a0cf541b12df2b353efd4944b29bf2fa8840452.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "66514",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Faglært Fuldtid",
+                        "createdAt": 1541017621,
+                        "signedAt": null,
+                        "expiresAt": 1542832021,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Emma Nicoline Ancher Skak",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0C%252BAzoJbmFtZUkiHkVtbWEgTmljb2xpbmUgQW5jaGVyIFNrYWsGOgZFVA%253D%253D--779a04c429e5b2fc4d7a95d2dd7b76bb0fdeef8ed1ae432ac16b1b6c9873c527.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12312 Helsingør Bycenter (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Anita Rasksen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA51tAjoJbmFtZUkiEkFuaXRhIFJhc2tzZW4GOgZFVA%253D%253D--a84e46da752960d399df0c9c52c25b6b0639684dd857ea479de0dc356438ccd5.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "66384",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "011118 Maya Schmitt",
+                        "createdAt": 1540826316,
+                        "signedAt": null,
+                        "expiresAt": 1542640716,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Maya Kousholt Schmitt",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2GyAzoJbmFtZUkiGk1heWEgS291c2hvbHQgU2NobWl0dAY6BkVU--36562c7a93491d17ec539c783aa6de58ae8b92e324d5fb5efc3edc9abd70cd6f.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10049 Ålborg - Algade 3 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Line Kolding Byskov",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0dpAjoJbmFtZUkiGExpbmUgS29sZGluZyBCeXNrb3YGOgZFVA%253D%253D--fb281354f69cf012f3e9424ce21367d44979dc9cd973e08836f0f62addb6cfcb.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "65966",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "011118 Emma Harbo",
+                        "createdAt": 1540826262,
+                        "signedAt": null,
+                        "expiresAt": 1542640662,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Emma Harbo Søndergaard",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2CyAzoJbmFtZUkiHEVtbWEgSGFyYm8gU8O4bmRlcmdhYXJkBjoGRVQ%253D--815539ce7d800d8926ea9671eb505c8bc3348f43c69fcdc01c17d0cf47fdc76a.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10049 Ålborg - Algade 3 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Line Kolding Byskov",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0dpAjoJbmFtZUkiGExpbmUgS29sZGluZyBCeXNrb3YGOgZFVA%253D%253D--fb281354f69cf012f3e9424ce21367d44979dc9cd973e08836f0f62addb6cfcb.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "65964",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Amia Nejsum 291018",
+                        "createdAt": 1540825416,
+                        "signedAt": null,
+                        "expiresAt": 1542639816,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Amia Nejsum",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA4ypAzoJbmFtZUkiEEFtaWEgTmVqc3VtBjoGRVQ%253D--e7da993689bc135f19a2151b54396ea5f43f6b1244f9c4197a95c9cc06ef5aa2.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "17507 Randers Storcenter (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Annette Drewniak",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA1lxAjoJbmFtZUkiFUFubmV0dGUgRHJld25pYWsGOgZFVA%253D%253D--fef94274d9de72ba8b93d80a7eeb33c5f177012388432915ab5693347739bd9e.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "65962",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Agnete 291018",
+                        "createdAt": 1540825340,
+                        "signedAt": null,
+                        "expiresAt": 1542639740,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Agnete Nellemann",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2xxAjoJbmFtZUkiFUFnbmV0ZSBOZWxsZW1hbm4GOgZFVA%253D%253D--a8dd223e395df652069ded0bc02abb971f6bdfef2a14845ce0bba226315e2fa0.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "17507 Randers Storcenter (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Annette Drewniak",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA1lxAjoJbmFtZUkiFUFubmV0dGUgRHJld25pYWsGOgZFVA%253D%253D--fef94274d9de72ba8b93d80a7eeb33c5f177012388432915ab5693347739bd9e.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "65961",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "011118 Sophie Agerbæk",
+                        "createdAt": 1540538225,
+                        "signedAt": null,
+                        "expiresAt": 1542356225,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Sophie Danskov Agerbæk",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAyC7AzoJbmFtZUkiHFNvcGhpZSBEYW5za292IEFnZXJiw6ZrBjoGRVQ%253D--5dece75339c813e7e1470640e307ada317053cffef9f1b1b3e72e61940fefb6c.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10510 Ballerup - Ballerup Centret (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Bettina Randers Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwpwAjoJbmFtZUkiG0JldHRpbmEgUmFuZGVycyBKZW5zZW4GOgZFVA%253D%253D--1d2c798771112bd0e41f386e44d8cca51d9898bc068e2fbcfbb8ab1cc6ec39ed.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "65752",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "221018 Nicoline Dal ",
+                        "createdAt": 1540207299,
+                        "signedAt": null,
+                        "expiresAt": 1542025299,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Nicoline Anna Dal",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwi2AzoJbmFtZUkiFk5pY29saW5lIEFubmEgRGFsBjoGRVQ%253D--baa3b80d46874410e84e5eb573766d1b4f2b0562aefc2f48b4a41f6430addc4c.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10065 Ålborg - Friis Citycenter (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Geertsje Algra",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA1dpAjoJbmFtZUkiE0dlZXJ0c2plIEFsZ3JhBjoGRVQ%253D--b19cbf81856b903520af130dd10a636aae20bf8034fd2a7be5939690c6fd6173.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "65191",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "31102018 Aiysha Ahmad",
+                        "createdAt": 1540198784,
+                        "signedAt": null,
+                        "expiresAt": 1542016784,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Aiysha Shahid Riaz Ahmad",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0y3AzoJbmFtZUkiHUFpeXNoYSBTaGFoaWQgUmlheiBBaG1hZAY6BkVU--0415dca47499cf1a7ea14b7e311e79fa70d1ff8e4deb4c73e065f8be6a90343d.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10510 Ballerup - Ballerup Centret (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Bettina Randers Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwpwAjoJbmFtZUkiG0JldHRpbmEgUmFuZGVycyBKZW5zZW4GOgZFVA%253D%253D--1d2c798771112bd0e41f386e44d8cca51d9898bc068e2fbcfbb8ab1cc6ec39ed.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "65175",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "15-10-2018",
+                        "createdAt": 1539082622,
+                        "signedAt": null,
+                        "expiresAt": 1541507949,
+                        "sentAt": 1539693549,
+                        "signsCount": 1,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Vanessa Maria Houborg Bremner",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxSXAzoJbmFtZUkiIlZhbmVzc2EgTWFyaWEgSG91Ym9yZyBCcmVtbmVyBjoGRVQ%253D--e9800b1e7d8815d371f258f29dae469d33feed7a79835ff74ee056313fd25f63.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14516 Vanløse - Apollovej 33 (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Katharina Wolf",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwhwAjoJbmFtZUkiE0thdGhhcmluYSBXb2xmBjoGRVQ%253D--a33f0ce319805cf9290c75355a89589ca56be04f594200b4ffb4831846c12793.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "63991",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "01/08-18 Mathilde",
+                        "createdAt": 1538641752,
+                        "signedAt": null,
+                        "expiresAt": 1540456152,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Mathilde Pahuus",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwaLAzoJbmFtZUkiFE1hdGhpbGRlIFBhaHV1cwY6BkVU--86c7b9aad76f11232d934013c96e968ff6aea2802065c530b7c21ae21a03cd4b.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12725 Holstebro - Torvet,Grønsgade 2 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Pernille Ørum",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FtsAjoJbmFtZUkiE1Blcm5pbGxlIMOYcnVtBjoGRVQ%253D--5a09f34dc56e9b59fd1cf4e3b3ac9d7ffe8d2c3bcafc9afa956a3e32c61a93ab.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "63559",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "michelle041018",
+                        "createdAt": 1538640532,
+                        "signedAt": null,
+                        "expiresAt": 1540454932,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Michelle Bräuner",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxCsAzoJbmFtZUkiFk1pY2hlbGxlIEJyw6R1bmVyBjoGRVQ%253D--d7a61df47bc64db67a1a8c6776a9f36c143a18550a6a50a671a2f330c41ca931.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "18310 Tranbjerg - Kirketorvet 6 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Tina Halvorsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwRqAjoJbmFtZUkiE1RpbmEgSGFsdm9yc2VuBjoGRVQ%253D--567a07ab741af0ad85e981ab9f3340f32def5707891843a534b8d552d41c0c8b.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "63551",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "160418",
+                        "createdAt": 1538496398,
+                        "signedAt": null,
+                        "expiresAt": 1540310798,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Emma Kjær Vilhelmsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA75fAzoJbmFtZUkiGkVtbWEgS2rDpnIgVmlsaGVsbXNlbgY6BkVU--3a6a3e299b5c7f7a603dc31cbb3f8e7522048301222701993b467552d042b6c5.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10261 Århus - Matas Outlet (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Anne Gaardsholt Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxFqAjoJbmFtZUkiG0FubmUgR2FhcmRzaG9sdCBKZW5zZW4GOgZFVA%253D%253D--05b9d919efad1da67aae59fcf16bda0b52558a2d5f4bf02113b1817244774c6d.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "63315",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "lea 1-10",
+                        "createdAt": 1538049838,
+                        "signedAt": null,
+                        "expiresAt": 1539864238,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Lea BroKynde",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FOnAzoJbmFtZUkiEUxlYSBCcm9LeW5kZQY6BkVU--d5d4dffc96467a7915a0c685abe03e79442bd85b0162e7f7025d2d07203d4a17.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "18465 Silkeborg - Vestergade 17 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Gitte Larsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA1ByAjoJbmFtZUkiEUdpdHRlIExhcnNlbgY6BkVU--6f09f6f46a6a4a70b515d8125f64ecaab9f7fbdcf57deb8ee9aa6d7ad53cfd07.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "62843",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "011018Karlagullach",
+                        "createdAt": 1537792693,
+                        "signedAt": null,
+                        "expiresAt": 1539607093,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Karla Gullach",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA62lAzoJbmFtZUkiEkthcmxhIEd1bGxhY2gGOgZFVA%253D%253D--d1e599e86062641fcb23136975b5110a72b572a9b59a0b37402d465a2e59f189.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10510 Ballerup - Ballerup Centret (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Bettina Randers Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwpwAjoJbmFtZUkiG0JldHRpbmEgUmFuZGVycyBKZW5zZW4GOgZFVA%253D%253D--1d2c798771112bd0e41f386e44d8cca51d9898bc068e2fbcfbb8ab1cc6ec39ed.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "62291",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "011018 Julie",
+                        "createdAt": 1537355291,
+                        "signedAt": null,
+                        "expiresAt": 1539169691,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Julie Nordhavn",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA8eiAzoJbmFtZUkiE0p1bGllIE5vcmRoYXZuBjoGRVQ%253D--412dca0f82df26a2d612b688ea3e5e650dea5e7ba5e11b6318630fb8268d5c7b.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10040 Ålborg - Ålborg Storcenter (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Malene Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA6xsAjoJbmFtZUkiEk1hbGVuZSBKZW5zZW4GOgZFVA%253D%253D--5457e7a9f7711ccfa619e09f5c4e19430ad348e53e56ce4a08778d58de180da9.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "61833",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Regitze",
+                        "createdAt": 1537339935,
+                        "signedAt": null,
+                        "expiresAt": 1539154335,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Regitze Wissing",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxhsAjoJbmFtZUkiFFJlZ2l0emUgV2lzc2luZwY6BkVU--1bacd3325088abc8570d7f7b38a817a297939de12081d61b817f16a4578ce011.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12297 Herning - Bredgade 3 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Karl Kristian Lillelund",
+                            "avatar": "https://test10.samesystem.com/user/picture_filename/161223/kkl.jpg?1484577449",
+                            "__typename": "User"
+                        },
+                        "id": "61760",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Nichole Larsen 01-10-18",
+                        "createdAt": 1537015521,
+                        "signedAt": null,
+                        "expiresAt": 1538829921,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Nichole Larsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA6ptAjoJbmFtZUkiE05pY2hvbGUgTGFyc2VuBjoGRVQ%253D--6ec3bf7fcad4da0b50a29d26ee797f8a709aa38446599793dc15a9d7dba82d0d.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14516 Vanløse - Apollovej 33 (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Maria Henriette Strøm",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FhuAjoJbmFtZUkiG01hcmlhIEhlbnJpZXR0ZSBTdHLDuG0GOgZFVA%253D%253D--05e3d7fa72e66d2d02ee7841986b74147198663b45a925add93cba6d7992b1b2.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "61521",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "01-09-2018 Maria Marinussen",
+                        "createdAt": 1536918512,
+                        "signedAt": null,
+                        "expiresAt": 1543301791,
+                        "sentAt": 1541487391,
+                        "signsCount": 2,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Maria Marinussen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA29uAjoJbmFtZUkiFU1hcmlhIE1hcmludXNzZW4GOgZFVA%253D%253D--dc68af4a6752f93447df0dea9e32443230be1092a7429bc975f9d893f1c341b5.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14567 Frederiks - Gl. Kongevej 151 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Tania Maria Odgaard",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA4F3AjoJbmFtZUkiGFRhbmlhIE1hcmlhIE9kZ2FhcmQGOgZFVA%253D%253D--226bebf09fff47b30ff42fffe05611c28cf2d2a4aff9babb2430105806d85bc4.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "61471",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Sofie Petræus",
+                        "createdAt": 1536819167,
+                        "signedAt": null,
+                        "expiresAt": 1538633567,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Sofie Petræus",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA42fAzoJbmFtZUkiE1NvZmllIFBldHLDpnVzBjoGRVQ%253D--14135e5f1e50c44020627cedff305f2f5da3eed7b43b082267135e11ef83bf82.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12610 Hundested - Nørregade 14 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Martina Bengtsson",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzjEAjoJbmFtZUkiFk1hcnRpbmEgQmVuZ3Rzc29uBjoGRVQ%253D--368d87bf68b1f5fdc7ed4c6894faad10458903ad3ac679c04cf3f0a3e7b77912.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "61294",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Julie H 1-11-18",
+                        "createdAt": 1536490969,
+                        "signedAt": null,
+                        "expiresAt": 1538305369,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Julie Marie Hagen Hvidberg - Hansen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwLDAjoJbmFtZUkiKEp1bGllIE1hcmllIEhhZ2VuIEh2aWRiZXJnIC0gSGFuc2VuBjoGRVQ%253D--4c2cefba150550adcd561e4d79a84a910c1d2b77ee45e64f327962141aec3b00.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "16896 Næstved - Næstved Storcenter (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Tina Østervang",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7FwAjoJbmFtZUkiFFRpbmEgw5hzdGVydmFuZwY6BkVU--2690d6dcde35bff09ebfc167c5b06185baaa1343c0ce39412de038e88a2a7e25.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "60834",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "011118 Signe",
+                        "createdAt": 1536141858,
+                        "signedAt": null,
+                        "expiresAt": 1537956258,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Signe Øhrgaard Heisel",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0WYAzoJbmFtZUkiG1NpZ25lIMOYaHJnYWFyZCBIZWlzZWwGOgZFVA%253D%253D--ef8e5378ef48ad2e28023b90ef2ddcc5955bf616e2884d05f826aac175d4b73e.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10073 Ålborg - Vejgaard Torv 5 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Gertrud S. Harbo Larsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2RpAjoJbmFtZUkiHEdlcnRydWQgUy4gSGFyYm8gTGFyc2VuBjoGRVQ%253D--55b514454d7a665705d54f7e8fda8fdbf4053e7fd8846fbce6ae75933dce5a92.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "60395",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010918 Signe",
+                        "createdAt": 1536141819,
+                        "signedAt": null,
+                        "expiresAt": 1537956219,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Signe Øhrgaard Heisel",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0WYAzoJbmFtZUkiG1NpZ25lIMOYaHJnYWFyZCBIZWlzZWwGOgZFVA%253D%253D--ef8e5378ef48ad2e28023b90ef2ddcc5955bf616e2884d05f826aac175d4b73e.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10073 Ålborg - Vejgaard Torv 5 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Gertrud S. Harbo Larsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2RpAjoJbmFtZUkiHEdlcnRydWQgUy4gSGFyYm8gTGFyc2VuBjoGRVQ%253D--55b514454d7a665705d54f7e8fda8fdbf4053e7fd8846fbce6ae75933dce5a92.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "60394",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010918 Camilla",
+                        "createdAt": 1535979061,
+                        "signedAt": null,
+                        "expiresAt": 1537793461,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Camilla Eiersted Nielsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA4JyAjoJbmFtZUkiHUNhbWlsbGEgRWllcnN0ZWQgTmllbHNlbgY6BkVU--6f6af3d3e28829a1b4bfa80d8524ecb6242ffdedd7064be47d6a447bf7ca470d.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "18503 Skagen - Sct. Laurentiivej 45 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Helen Meincke",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA4pyAjoJbmFtZUkiEkhlbGVuIE1laW5ja2UGOgZFVA%253D%253D--308c2fcc35d6e84d26910888ca8cbc19b0a5d87574c7868efec179d133571801.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "60204",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Vanessa",
+                        "createdAt": 1535539809,
+                        "signedAt": null,
+                        "expiresAt": 1537357719,
+                        "sentAt": 1535543319,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Vanessa Maria Houborg Bremner",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxSXAzoJbmFtZUkiIlZhbmVzc2EgTWFyaWEgSG91Ym9yZyBCcmVtbmVyBjoGRVQ%253D--e9800b1e7d8815d371f258f29dae469d33feed7a79835ff74ee056313fd25f63.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14583 København - Østerbrogade 142 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Lonnie Jørgensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA9FyAjoJbmFtZUkiFkxvbm5pZSBKw7hyZ2Vuc2VuBjoGRVQ%253D--e61f72cd0fcba9b8635f211ef2555d782742a913fd81472f1c752b1ca39212c5.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "59702",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Josefine jensen",
+                        "createdAt": 1535457165,
+                        "signedAt": null,
+                        "expiresAt": 1537271565,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Josefine Sophie Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA9YrAzoJbmFtZUkiG0pvc2VmaW5lIFNvcGhpZSBKZW5zZW4GOgZFVA%253D%253D--a5133bbd1cedab945b007f1f6db6eaf411467e9be77c45ac4a401016b0cf7ecc.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14040 København - Fields (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Camille Bjerre Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA6xuAjoJbmFtZUkiGkNhbWlsbGUgQmplcnJlIEplbnNlbgY6BkVU--fb7ed66824808b6e71c4a332dc837814dc7cad967797d5ba7d2cb78eccfa0623.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "59578",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "290818 Elisa Jimenez Sørensen",
+                        "createdAt": 1535440923,
+                        "signedAt": null,
+                        "expiresAt": 1537255323,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Elisa Jimenez Sørensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA4JsAjoJbmFtZUkiHEVsaXNhIEppbWVuZXogU8O4cmVuc2VuBjoGRVQ%253D--26bca1e3985287c455b0ac8c1d7815f8fa9f903481b4ee26be4be4e747ec3671.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "15255 Lyngby - Jernbanepladsen 39-41 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Mary Møllebro",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA1h1AjoJbmFtZUkiE01hcnkgTcO4bGxlYnJvBjoGRVQ%253D--d47af7cea694d3570f9f52dc20d9cbcc310372ee5fb1974434ae74d32648b649.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "59546",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010918 Sidse",
+                        "createdAt": 1535362639,
+                        "signedAt": null,
+                        "expiresAt": 1537177039,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Sidse Leander Laursen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAz2WAzoJbmFtZUkiGlNpZHNlIExlYW5kZXIgTGF1cnNlbgY6BkVU--69aa5d70a1101a0b20d43775ae92dc345d31c64806799830f77ae290256d9815.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10219 Århus N - Storcenter Nord (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Sissel Rosenkilde",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA9lpAjoJbmFtZUkiFlNpc3NlbCBSb3NlbmtpbGRlBjoGRVQ%253D--55dab53b16ab053928a189abc6549706b9a0f27bfe9bfda418d723919713ae8a.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "59491",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010918 Charlotte Gravesen",
+                        "createdAt": 1534929155,
+                        "signedAt": null,
+                        "expiresAt": 1536743555,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Charlotte Gravesen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA5eDAzoJbmFtZUkiF0NoYXJsb3R0ZSBHcmF2ZXNlbgY6BkVU--a443473ec30239035367f6421864972a01c972613583dc7763a0c14fa3e7296a.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10081 Åbybro - Åbybro-Centret (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Malene Gyde",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA41qAjoJbmFtZUkiEE1hbGVuZSBHeWRlBjoGRVQ%253D--6e4b1154b52a19e5424310eec1c4d7871a0cafe5e8c9b15c87907269e779cb03.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "59024",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "270818 Malene Sejersen",
+                        "createdAt": 1534927161,
+                        "signedAt": null,
+                        "expiresAt": 1536741561,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Malene Sejersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252ByTAzoJbmFtZUkiFE1hbGVuZSBTZWplcnNlbgY6BkVU--8f33821f21d9cc23fa942362b8dab0a39c8c0bd38f6f311c013fcff3ec139aaa.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12522 Hillerød - Slotsgade 11 (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Mia Overbeck Dahlsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FtrAjoJbmFtZUkiGU1pYSBPdmVyYmVjayBEYWhsc2VuBjoGRVQ%253D--1b229db9f789c3402877d0f573e7d7d21f8a692eed9300c103acdab921c8a7b4.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "59004",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010918Jasmin Zenia Tiemroth",
+                        "createdAt": 1533299362,
+                        "signedAt": null,
+                        "expiresAt": 1535113762,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Jasmin Zenia Tiemroth",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxvbAjoJbmFtZUkiGkphc21pbiBaZW5pYSBUaWVtcm90aAY6BkVU--9095ea90742ec6041f0b0276a149e091aa795a06409fe4a7c22be35c67d1b957.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10596 Ballerup - Banetoften 30 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Bettina Randers Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwpwAjoJbmFtZUkiG0JldHRpbmEgUmFuZGVycyBKZW5zZW4GOgZFVA%253D%253D--1d2c798771112bd0e41f386e44d8cca51d9898bc068e2fbcfbb8ab1cc6ec39ed.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "57463",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "01092018Christina Schultze",
+                        "createdAt": 1533299263,
+                        "signedAt": null,
+                        "expiresAt": 1535113663,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Christina M. Schulze",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2R7AjoJbmFtZUkiGUNocmlzdGluYSBNLiBTY2h1bHplBjoGRVQ%253D--e53d00b0dea841a81f2bcbdbd44b488c724ea979a06b36e80558117054ccedf5.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10510 Ballerup - Ballerup Centret (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Bettina Randers Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwpwAjoJbmFtZUkiG0JldHRpbmEgUmFuZGVycyBKZW5zZW4GOgZFVA%253D%253D--1d2c798771112bd0e41f386e44d8cca51d9898bc068e2fbcfbb8ab1cc6ec39ed.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "57462",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Emilia",
+                        "createdAt": 1533104165,
+                        "signedAt": null,
+                        "expiresAt": 1534918565,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Emilia Marjacic",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252BeKAzoJbmFtZUkiFEVtaWxpYSBNYXJqYWNpYwY6BkVU--352dc1e8b48a3a0ff04e1e864e9afbadb9d6eea4fbd267996fee8c87fc7a2a0f.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12610 Hundested - Nørregade 14 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Martina Bengtsson",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzjEAjoJbmFtZUkiFk1hcnRpbmEgQmVuZ3Rzc29uBjoGRVQ%253D--368d87bf68b1f5fdc7ed4c6894faad10458903ad3ac679c04cf3f0a3e7b77912.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "57041",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "300818 Sofie Jul Christensen",
+                        "createdAt": 1533024222,
+                        "signedAt": null,
+                        "expiresAt": 1534838622,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Sofie Jul Christensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0O0AjoJbmFtZUkiGlNvZmllIEp1bCBDaHJpc3RlbnNlbgY6BkVU--db33d4ddeaf618d28c01c4a0b738e7142283700fc1fbd32b9f11523502d29c34.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "18635 Skive - Frederiksgade 1 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Mary Møllebro",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA1h1AjoJbmFtZUkiE01hcnkgTcO4bGxlYnJvBjoGRVQ%253D--d47af7cea694d3570f9f52dc20d9cbcc310372ee5fb1974434ae74d32648b649.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "56994",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010818 Sophie Ankjær Andersen",
+                        "createdAt": 1532950277,
+                        "signedAt": null,
+                        "expiresAt": 1534764677,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Sophie Ankjær Andersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252BGJAzoJbmFtZUkiHFNvcGhpZSBBbmtqw6ZyIEFuZGVyc2VuBjoGRVQ%253D--289a2cde6d0b417c61640a5b5a5b48d9392227196553c5ef51a583f9b3d5d186.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11509 Fredensborg - Jernbanegade 26 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Camilla Stubtoft Petersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzJrAjoJbmFtZUkiHkNhbWlsbGEgU3R1YnRvZnQgUGV0ZXJzZW4GOgZFVA%253D%253D--b24db987ee35e58bd050711f0ef68ea77e8f6bd535f75b4aca4e205a2a816464.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "56965",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010818Lucas Andersen",
+                        "createdAt": 1532942112,
+                        "signedAt": null,
+                        "expiresAt": 1534756512,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Lucas Andersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252BSJAzoJbmFtZUkiE0x1Y2FzIEFuZGVyc2VuBjoGRVQ%253D--de1b2a951488136327758b78f545ecea1e4a01fb687e2f00d3f1a2f07e147dec.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10596 Ballerup - Banetoften 30 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Bettina Randers Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwpwAjoJbmFtZUkiG0JldHRpbmEgUmFuZGVycyBKZW5zZW4GOgZFVA%253D%253D--1d2c798771112bd0e41f386e44d8cca51d9898bc068e2fbcfbb8ab1cc6ec39ed.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "56945",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Praktikan Amira",
+                        "createdAt": 1531127176,
+                        "signedAt": null,
+                        "expiresAt": 1532941576,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Amira Chehade",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxVpAzoJbmFtZUkiEkFtaXJhIENoZWhhZGUGOgZFVA%253D%253D--7876457098da94223146cdeb4a82335ca4e2c7bd2d0c4fe3f5ebbf61cdcc8eac.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "19518 Værløse - Bymidten 9 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Lonnie Jørgensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA9FyAjoJbmFtZUkiFkxvbm5pZSBKw7hyZ2Vuc2VuBjoGRVQ%253D--e61f72cd0fcba9b8635f211ef2555d782742a913fd81472f1c752b1ca39212c5.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "55287",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "0107Maria Thorsen",
+                        "createdAt": 1529589790,
+                        "signedAt": null,
+                        "expiresAt": 1531404190,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Maria Dawud Thorsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2hTAzoJbmFtZUkiGE1hcmlhIERhd3VkIFRob3JzZW4GOgZFVA%253D%253D--7ea056951373acea6a2d5d2ddb441dd18fd1918539a04875994bbe6a4cbc078d.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12327 Helsingør - Prøvestenscentret (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Dorthe Løve",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA1p1AjoJbmFtZUkiEURvcnRoZSBMw7h2ZQY6BkVU--742f5ef525d03e686c6f251a50bc125eb5059fec4ed9f4ce6c3e5407a86df6d1.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "53460",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "120718 Jette",
+                        "createdAt": 1529479361,
+                        "signedAt": null,
+                        "expiresAt": 1531293761,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Jette Mansfield Nygaard",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA5RqAzoJbmFtZUkiHEpldHRlIE1hbnNmaWVsZCBOeWdhYXJkBjoGRVQ%253D--eba1c1cf5bd895716141ef22e042a1361eddf27002fc8c810602ef4b44fd37d5.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "18643 Skjern - Jernbanegade 7 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Charlotte Løndahl",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA1l1AjoJbmFtZUkiF0NoYXJsb3R0ZSBMw7huZGFobAY6BkVU--ff8ec75c0e3da7ef60b19b8740786b0fdc4e4970fdf385361b99e0811ce09f1e.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "53172",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "0100818Jette",
+                        "createdAt": 1529053606,
+                        "signedAt": null,
+                        "expiresAt": 1530868006,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Jette Mansfield Nygaard",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA5RqAzoJbmFtZUkiHEpldHRlIE1hbnNmaWVsZCBOeWdhYXJkBjoGRVQ%253D--eba1c1cf5bd895716141ef22e042a1361eddf27002fc8c810602ef4b44fd37d5.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "18643 Skjern - Jernbanegade 7 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Majbritt V. Vestergaard",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252B9yAjoJbmFtZUkiHE1hamJyaXR0IFYuIFZlc3RlcmdhYXJkBjoGRVQ%253D--a214d6fe41a7d9a116fc3ce0698b5c979ebd14dd305b4743a2a227c08febc4ce.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "52731",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010718 Line Bach",
+                        "createdAt": 1529053394,
+                        "signedAt": null,
+                        "expiresAt": 1532361334,
+                        "sentAt": 1530546934,
+                        "signsCount": 1,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Line Bach",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2dxAzoJbmFtZUkiDkxpbmUgQmFjaAY6BkVU--53ba60dbb74e1f2e3ad3f3ec5b133bb084359253808293f45a8808f68043ba23.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10049 Ålborg - Algade 3 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Line Kolding Byskov",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0dpAjoJbmFtZUkiGExpbmUgS29sZGluZyBCeXNrb3YGOgZFVA%253D%253D--fb281354f69cf012f3e9424ce21367d44979dc9cd973e08836f0f62addb6cfcb.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "52728",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "140518 Steffanie",
+                        "createdAt": 1527621885,
+                        "signedAt": null,
+                        "expiresAt": 1529436285,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Steffanie Abildgaard Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwFxAjoJbmFtZUkiIFN0ZWZmYW5pZSBBYmlsZGdhYXJkIEplbnNlbgY6BkVU--9fff681d47dd879a2616a4f11196df50d679b29b2494808c284422fb90c4d55f.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "17000 Odense SØ - Rosengårdcentret (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Ditte Schouw Larsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7l1AjoJbmFtZUkiGERpdHRlIFNjaG91dyBMYXJzZW4GOgZFVA%253D%253D--038e954a3220c9e7a2b8589ef04a6c52f4cb63ff86ebe48c2d3b6902903a3d6d.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "51121",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "140518 Siw",
+                        "createdAt": 1527621733,
+                        "signedAt": null,
+                        "expiresAt": 1529436133,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Siw Holst Kornbek Pedersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252F9wAjoJbmFtZUkiH1NpdyBIb2xzdCBLb3JuYmVrIFBlZGVyc2VuBjoGRVQ%253D--6b1d03c17fa1b05c2e84955c2f3e42b82c0d3d62557326cfb5944fcb0c19d2bb.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "17000 Odense SØ - Rosengårdcentret (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Ditte Schouw Larsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7l1AjoJbmFtZUkiGERpdHRlIFNjaG91dyBMYXJzZW4GOgZFVA%253D%253D--038e954a3220c9e7a2b8589ef04a6c52f4cb63ff86ebe48c2d3b6902903a3d6d.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "51120",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "140518 Melissa",
+                        "createdAt": 1527621621,
+                        "signedAt": null,
+                        "expiresAt": 1529436021,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Melissa M Hansen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAy2ZAjoJbmFtZUkiFU1lbGlzc2EgTSBIYW5zZW4GOgZFVA%253D%253D--23ff373305087606157e0c7efd4f1f8d97a27d76b2d770838b2bb1bf07d5d0c6.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "17000 Odense SØ - Rosengårdcentret (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Ditte Schouw Larsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7l1AjoJbmFtZUkiGERpdHRlIFNjaG91dyBMYXJzZW4GOgZFVA%253D%253D--038e954a3220c9e7a2b8589ef04a6c52f4cb63ff86ebe48c2d3b6902903a3d6d.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "51119",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "140518 Louise",
+                        "createdAt": 1527621457,
+                        "signedAt": null,
+                        "expiresAt": 1529435857,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Louise Martha Kramer Meck",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwBxAjoJbmFtZUkiHkxvdWlzZSBNYXJ0aGEgS3JhbWVyIE1lY2sGOgZFVA%253D%253D--402263b189ab86af78ce1e22dcdadb4373c0f90e67d3215dd04dc70767f9fc38.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "17000 Odense SØ - Rosengårdcentret (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Ditte Schouw Larsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7l1AjoJbmFtZUkiGERpdHRlIFNjaG91dyBMYXJzZW4GOgZFVA%253D%253D--038e954a3220c9e7a2b8589ef04a6c52f4cb63ff86ebe48c2d3b6902903a3d6d.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "51118",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Sofie",
+                        "createdAt": 1527005301,
+                        "signedAt": null,
+                        "expiresAt": 1528819701,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Sofie Larsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA8FNAzoJbmFtZUkiEVNvZmllIExhcnNlbgY6BkVU--e4ac3f8909560b4c5c0fbc3b02d4f9bf9650ab23a951734765329c7dd9f40030.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10677 Brande - Storegade 22 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Pia Kuhlmann Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA4VqAjoJbmFtZUkiGFBpYSBLdWhsbWFubiBKZW5zZW4GOgZFVA%253D%253D--3de8db2120f314949c0e642d005ca9bcd730812712b08726164733c8e0100d98.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "50258",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Praktikant Sarah",
+                        "createdAt": 1526978891,
+                        "signedAt": null,
+                        "expiresAt": 1528793291,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Sarah Møller Vad Nielsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAyppAzoJbmFtZUkiHlNhcmFoIE3DuGxsZXIgVmFkIE5pZWxzZW4GOgZFVA%253D%253D--b63dd32b69918144c23b7fe2a1f090ebc8e9fb490c84b4d21b33b7603aa18821.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10499 Billund - Hovedgaden 15 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Karin Dünnweber Hansen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxtqAjoJbmFtZUkiHEthcmluIETDvG5ud2ViZXIgSGFuc2VuBjoGRVQ%253D--a497b6db304c5cc82b2533d6417e4d446a3d1e72d9c57538d8e1601eb7c747a0.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "50211",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "ufaglært timelønnet 0-8 timer",
+                        "createdAt": 1526731811,
+                        "signedAt": null,
+                        "expiresAt": 1528546211,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Jennifer Joana Whitnay Canana",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA9w4AzoJbmFtZUkiIkplbm5pZmVyIEpvYW5hIFdoaXRuYXkgQ2FuYW5hBjoGRVQ%253D--8904b8ca366a2a9105fa4cab97ce9539077da5d8d8b30612726b4c1bcacf1328.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12875 Hellerup - Waterfront (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Lotte Vendelbo Sørensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FhxAjoJbmFtZUkiHUxvdHRlIFZlbmRlbGJvIFPDuHJlbnNlbgY6BkVU--f4003c00a0e33a82af277da4a05733afc9a92c0a38b2c408d5db796bc2b0fee4.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "50180",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010518 Jeanne",
+                        "createdAt": 1526300487,
+                        "signedAt": null,
+                        "expiresAt": 1530868164,
+                        "sentAt": 1529053764,
+                        "signsCount": 1,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Jeanne Fisch",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252F9vAjoJbmFtZUkiEUplYW5uZSBGaXNjaAY6BkVU--90317ae76fad4221db0c9b8616bf8ad19ea7a0de75cc7af2a10089e5c5c2943f.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "15288 Lyngby - Lyngby Storcenter 35 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Christina H. Rosenqvist",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwJyAjoJbmFtZUkiHENocmlzdGluYSBILiBSb3NlbnF2aXN0BjoGRVQ%253D--b7a635f7fdda5547416d8b72decb31a8a210e4f008b60c3a79ad658fc446e119.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "49707",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "21781 Sussi Licht",
+                        "createdAt": 1525764739,
+                        "signedAt": null,
+                        "expiresAt": 1527579139,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Sussi Licht",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA3ljAzoJbmFtZUkiEFN1c3NpIExpY2h0BjoGRVQ%253D--4245e3822a17414dfba03dbe35c7c1a7aa8f50d9a6e12275f9c73be3876318f1.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "18767 Stege - Storegade 41 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Maria Louise Just Pedersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAwNrAjoJbmFtZUkiH01hcmlhIExvdWlzZSBKdXN0IFBlZGVyc2VuBjoGRVQ%253D--771bebfc9de4864f956b23aa8baa1ce051a62b904c46f56386f55d79f3a4ceec.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "49234",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "070518 Sara Lütgemeier",
+                        "createdAt": 1525703318,
+                        "signedAt": null,
+                        "expiresAt": 1527517718,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Sara Lütgemeier",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0djAzoJbmFtZUkiFVNhcmEgTMO8dGdlbWVpZXIGOgZFVA%253D%253D--c625862459a844608a6a358391c30442a45f41c1902b33bc490c3347e34dc6d3.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "15261 Lyngby - Lyngby Hovedgade 47 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Stephen Lorentsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7JuAjoJbmFtZUkiFlN0ZXBoZW4gTG9yZW50c2VuBjoGRVQ%253D--16949dd704dbe00654d08961ab3037b7e4125424ab7dbb5b2d6f73485c7c89f9.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "49215",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "ufaglært timelønnet over 8 timer",
+                        "createdAt": 1525674349,
+                        "signedAt": null,
+                        "expiresAt": 1527488749,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Amanda Pauli",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7diAzoJbmFtZUkiEUFtYW5kYSBQYXVsaQY6BkVU--04ac47e5b38d4908b3b6edaa3da201ce23d446a4558a293ad23c45a103e6765a.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11304 Espergærde - Esp. Butikscenter (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Anne-Dorte Lauritsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAytsAjoJbmFtZUkiGUFubmUtRG9ydGUgTGF1cml0c2VuBjoGRVQ%253D--37ca23979421b525691ca63ca2d8b310f4981324477a10eac00bbdfa6a4fe183.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "49151",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "15-04-18 Lea Malmberg Dahl",
+                        "createdAt": 1525630746,
+                        "signedAt": null,
+                        "expiresAt": 1530278587,
+                        "sentAt": 1528464187,
+                        "signsCount": 1,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Lea Malmberg Dahl",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAxWkAjoJbmFtZUkiFkxlYSBNYWxtYmVyZyBEYWhsBjoGRVQ%253D--5686b37241d26c78654fd0790e0328a10d3eec3b856be008b613e31f74f498d5.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "10261 Århus - Matas Outlet (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Helle Bøgelund",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7x1AjoJbmFtZUkiFEhlbGxlIELDuGdlbHVuZAY6BkVU--25f5f2f132c3eb4e54d128820e0227289df29e0be4fb8dadc181b611bc4f78c3.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "49145",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "03052018 Nadia",
+                        "createdAt": 1525341605,
+                        "signedAt": null,
+                        "expiresAt": 1527156005,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Nadia Sandgaard Steiness",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA3thAzoJbmFtZUkiHU5hZGlhIFNhbmRnYWFyZCBTdGVpbmVzcwY6BkVU--9ab876ce59fc278f5792ce02d33e1560443c78dd09630711b26cdf701af3861d.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11290 Esbjerg - Kongensgade 51 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Susanne Pedersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA9VqAjoJbmFtZUkiFVN1c2FubmUgUGVkZXJzZW4GOgZFVA%253D%253D--44ba3eca4d46df3f22983db1baaad66f3cc07c975621bf1e45b36b18ec43fc6d.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "48944",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Camilla stedfortrædere",
+                        "createdAt": 1525338164,
+                        "signedAt": null,
+                        "expiresAt": 1527152564,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Camilla Brandi Hansen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA6xvAjoJbmFtZUkiGkNhbWlsbGEgQnJhbmRpIEhhbnNlbgY6BkVU--95cd6d73af60d552f06cfe942c42a91257dd444d3a6df1526578682be7fb4a00.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14753 Brønshøj - Fred.sundsvej 156 B (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Claus Roed Christensen",
+                            "avatar": "https://test10.samesystem.com/user/picture_filename/161207/Profil_Billede_crc_.png?1484745068",
+                            "__typename": "User"
+                        },
+                        "id": "48927",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "01052018 Emma Bjørnholt Nielsen",
+                        "createdAt": 1525074990,
+                        "signedAt": null,
+                        "expiresAt": 1533199490,
+                        "sentAt": 1531385090,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Emma Bjørnholt Nielsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA6VfAzoJbmFtZUkiHEVtbWEgQmrDuHJuaG9sdCBOaWVsc2VuBjoGRVQ%253D--4f5ab03385bfe51b8904bd1944873aa25e15cee875b980f975358363f1c7c7a7.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "19035 Taastrup - Taastrup Hovedgade 77 (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Mihane Anna Diba",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA65zAjoJbmFtZUkiFU1paGFuZSBBbm5hIERpYmEGOgZFVA%253D%253D--a4235b3a9e9beeb943b1b9ba60ea9eb726ad302aee6d499576e0f30c829e320d.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "48563",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010818Habiba",
+                        "createdAt": 1525074951,
+                        "signedAt": null,
+                        "expiresAt": 1526889351,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Habiba Atwi",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA0JJAzoJbmFtZUkiEEhhYmliYSBBdHdpBjoGRVQ%253D--132e4b34ff7636ccd7333cbdb6d729baa13f98f1341405aef94c9e50f98772ff.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12211 Hellerup - Strandvejen 88 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Tine R. Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FdrAjoJbmFtZUkiE1RpbmUgUi4gSmVuc2VuBjoGRVQ%253D--83f536b432d2fe33e54f9f3a7ea14123ba6eb43f0d70b4e73d22923f4d8f0a12.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "48562",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010418 Amy Janphen",
+                        "createdAt": 1525012126,
+                        "signedAt": null,
+                        "expiresAt": 1526991899,
+                        "sentAt": 1525177499,
+                        "signsCount": 1,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Amy Janphen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA34%252BAzoJbmFtZUkiEEFteSBKYW5waGVuBjoGRVQ%253D--3b363df7f8e06320dc277b17231b24366373c1d0af3f0896c49cf739ade79093.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14070 Frederiksberg Centeret (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Randi Linde Sørensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA31uAjoJbmFtZUkiGlJhbmRpIExpbmRlIFPDuHJlbnNlbgY6BkVU--05106f9bfcf0a99e4a93db58d874e00a46957426b88bdc299c022e74ed0d45cd.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "48550",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010518. Pernille Madsen.",
+                        "createdAt": 1524296587,
+                        "signedAt": null,
+                        "expiresAt": 1526110987,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Pernille Madsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FVqAjoJbmFtZUkiFFBlcm5pbGxlIE1hZHNlbgY6BkVU--529948ed36cf164a79e680e92fb5c5ccb0cd6badf2755bbbd2255bf282e2277d.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11320 Esbjerg - Kongensgade 42 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Helle Barrit",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA4sYAzoJbmFtZUkiEUhlbGxlIEJhcnJpdAY6BkVU--9c62d20448c212e01c085844cd27d98ee31265039259ac6848712e97b4b606d6.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "48053",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "010818 Anne Corinth Breum",
+                        "createdAt": 1524130090,
+                        "signedAt": null,
+                        "expiresAt": 1525944510,
+                        "sentAt": 1524130110,
+                        "signsCount": 1,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Anne Corinth Breum",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA49qAjoJbmFtZUkiF0FubmUgQ29yaW50aCBCcmV1bQY6BkVU--6b3e6e6362fa1c186ae7baa0af9f0e8625e2e6f48eca691c81e53b3a5f1b6b8f.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "16071 Nibe - Skomagertorvet 10 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Kenn Rasmussen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA8h1AjoJbmFtZUkiE0tlbm4gUmFzbXVzc2VuBjoGRVQ%253D--e852805b5d9fbc14d55a754b5d7b26337619ddb764261de7f8c704f8c4369057.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "47870",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Ida 18-4-18",
+                        "createdAt": 1523538179,
+                        "signedAt": null,
+                        "expiresAt": 1532377536,
+                        "sentAt": 1530563136,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Ida Toft-Karlsen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzZOAzoJbmFtZUkiFUlkYSBUb2Z0LUthcmxzZW4GOgZFVA%253D%253D--1dcd8af5f1e55c746689214997f75d5e102091996f8fe634759ace4fa704b503.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "18503 Skagen - Sct. Laurentiivej 45 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Helen Meincke",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA4pyAjoJbmFtZUkiEkhlbGVuIE1laW5ja2UGOgZFVA%253D%253D--308c2fcc35d6e84d26910888ca8cbc19b0a5d87574c7868efec179d133571801.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "47346",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Cecilie",
+                        "createdAt": 1523440407,
+                        "signedAt": 1523440407,
+                        "expiresAt": 1525254807,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Cecilie Mortensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA6JHAzoJbmFtZUkiFkNlY2lsaWUgTW9ydGVuc2VuBjoGRVQ%253D--5885587541953fa351bbb4b50ddbe5ea1954cada233407fe0ab34478b6ded6d5.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12610 Hundested - Nørregade 14 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Sabrina Marinkovic",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2RsAjoJbmFtZUkiF1NhYnJpbmEgTWFyaW5rb3ZpYwY6BkVU--c919c8361ac5182994fef526c81c3c47f461968ecab1d311192f25c0396cb2cd.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "47137",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Cecilie ",
+                        "createdAt": 1523440104,
+                        "signedAt": null,
+                        "expiresAt": 1525254504,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Cecilie Mortensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA6JHAzoJbmFtZUkiFkNlY2lsaWUgTW9ydGVuc2VuBjoGRVQ%253D--5885587541953fa351bbb4b50ddbe5ea1954cada233407fe0ab34478b6ded6d5.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12610 Hundested - Nørregade 14 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Sabrina Marinkovic",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA2RsAjoJbmFtZUkiF1NhYnJpbmEgTWFyaW5rb3ZpYwY6BkVU--c919c8361ac5182994fef526c81c3c47f461968ecab1d311192f25c0396cb2cd.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "47134",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Jade Waines 010318",
+                        "createdAt": 1523045827,
+                        "signedAt": null,
+                        "expiresAt": 1525332140,
+                        "sentAt": 1523517740,
+                        "signsCount": 1,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Jade Waines",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252F86AzoJbmFtZUkiEEphZGUgV2FpbmVzBjoGRVQ%253D--935bcf2e935393336941f228f3c604ddefac4dd2dec7d1a7a2975412ad702303.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "14350 Rødovre - Rødovre Centrum (MHX)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Pia Sommer",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAz5uAjoJbmFtZUkiD1BpYSBTb21tZXIGOgZFVA%253D%253D--1c5b63c34510b4aa2a450e7f285f5bb0fbbbb661020efcc362c776a4c9586b3a.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "46906",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "celine elev",
+                        "createdAt": 1522765751,
+                        "signedAt": null,
+                        "expiresAt": 1524580151,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Celine Damsgaard Fredskilde",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA8lHAzoJbmFtZUkiIENlbGluZSBEYW1zZ2FhcmQgRnJlZHNraWxkZQY6BkVU--e2efeb8465b241ced7ff5d7c8026c2e0ce880a8e779cacafd8aa643841a7afa8.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "19250 Vejle - Bryggen (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Rikke Rand Andersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FNzAjoJbmFtZUkiGFJpa2tlIFJhbmQgQW5kZXJzZW4GOgZFVA%253D%253D--5f32e4497b50b4bb1a6a12e478ce3a5a13874aef3850b9a136bdf7563b294123.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "46537",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "03-04-18 Jeanne",
+                        "createdAt": 1522745877,
+                        "signedAt": null,
+                        "expiresAt": 1524560323,
+                        "sentAt": 1522745923,
+                        "signsCount": 1,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Jeanne Fisch",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252F9vAjoJbmFtZUkiEUplYW5uZSBGaXNjaAY6BkVU--90317ae76fad4221db0c9b8616bf8ad19ea7a0de75cc7af2a10089e5c5c2943f.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12211 Hellerup - Strandvejen 88 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Johnny Borup",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA791AjoJbmFtZUkiEUpvaG5ueSBCb3J1cAY6BkVU--8651d519a41922f8081832e6b91549dfd05541f885268901196e5c16a1a831ee.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "46473",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Christina Hedegaard Sørensen",
+                        "createdAt": 1522138828,
+                        "signedAt": null,
+                        "expiresAt": 1523953228,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Christina Hedegaard Sørensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252BNCAzoJbmFtZUkiIkNocmlzdGluYSBIZWRlZ2FhcmQgU8O4cmVuc2VuBjoGRVQ%253D--65a11d4354bf1a4feada3d3a77a85f8f638de589e80d46ab8701f09ac0045537.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "18475 Silkeborg - Borgergade 80-82 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Marlene Nørager Torp",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA3FyAjoJbmFtZUkiGk1hcmxlbmUgTsO4cmFnZXIgVG9ycAY6BkVU--a550fc37877c827f9f00914f8699650fed6af9d5f070c8c39dd1c37e9a0d1e62.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "46150",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "Rikke Witt vikariat",
+                        "createdAt": 1521706605,
+                        "signedAt": null,
+                        "expiresAt": 1523517405,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Rikke Witt",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA7pEAzoJbmFtZUkiD1Jpa2tlIFdpdHQGOgZFVA%253D%253D--e03abd193f7bcbe44dff206624f0c8725e12a1fd95f2b1eb4f24d2251c1f4930.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11789 Grenå - Østergade 2 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Charlotte Holm Jensen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA79rAjoJbmFtZUkiGkNoYXJsb3R0ZSBIb2xtIEplbnNlbgY6BkVU--f43c510a2cc2876538928f3243190b79684d229d94289e66d157ae5cbd6c4556.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "45865",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "190318 Josephine Alexandra Seeberg Andersen",
+                        "createdAt": 1521629526,
+                        "signedAt": null,
+                        "expiresAt": 1523440326,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 3,
+                        "employee": {
+                            "name": "Josephine Alexandra Seeberg Andersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA5lDAzoJbmFtZUkiKUpvc2VwaGluZSBBbGV4YW5kcmEgU2VlYmVyZyBBbmRlcnNlbgY6BkVU--f34148eb65b4378ae61eb7442f305f4abde7e3009ac9e90dc773b75bfd1ba0f0.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11665 Grindsted - Borgergade 10 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Dorthe Nissen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA35rAjoJbmFtZUkiEkRvcnRoZSBOaXNzZW4GOgZFVA%253D%253D--78539e1fc3e9e19a0ee1e091609a14a48069d46df1157634bfd3dffbae9a8573.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "45772",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "praktikant",
+                        "createdAt": 1521455061,
+                        "signedAt": null,
+                        "expiresAt": 1523265861,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Sandra Wallensgaard",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzFDAzoJbmFtZUkiGFNhbmRyYSBXYWxsZW5zZ2FhcmQGOgZFVA%253D%253D--15a2f8e908a1b89593977537b087a08b62183aea73eb02f2ed4b5dfe250a0f59.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "11444 Farum - Farum Bytorv 14 (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Pernille Wede Andersen",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpA%252FlvAjoJbmFtZUkiG1Blcm5pbGxlIFdlZGUgQW5kZXJzZW4GOgZFVA%253D%253D--636001c84ff819c32277e1b0897b1544e79142a0dfebac43a2a7ea20d376b6eb.jpg",
+                            "__typename": "User"
+                        },
+                        "id": "45620",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                },
+                {
+                    "node": {
+                        "title": "12289 202149 Natascha Sølvborg Herbsleb Bortvisning bedrageri tyveri",
+                        "createdAt": 1520517046,
+                        "signedAt": 1520517046,
+                        "expiresAt": 1522327846,
+                        "sentAt": null,
+                        "signsCount": 0,
+                        "signsOf": 2,
+                        "employee": {
+                            "name": "Natascha Sølvborg Herbsleb",
+                            "avatar": "https://test10.samesystem.com/avatars/BAh7BzoHaWRpAzSsAjoJbmFtZUkiIE5hdGFzY2hhIFPDuGx2Ym9yZyBIZXJic2xlYgY6BkVU--c95e0361e1af42111c9c5575ff01c9e930aef12fb873e9619544b79cdd9b209a.jpg",
+                            "__typename": "User"
+                        },
+                        "shop": {
+                            "name": "12289 Herlev - Punkt 1, Herlev Bym. (MH3)",
+                            "timeZoneOffset": 7200,
+                            "__typename": "Shop"
+                        },
+                        "author": {
+                            "name": "Henrik Flagstad Therkildsen",
+                            "avatar": "https://test10.samesystem.com/user/picture_filename/157622/Sol.png?1519814024",
+                            "__typename": "User"
+                        },
+                        "id": "45048",
+                        "__typename": "Contract"
+                    },
+                    "__typename": "ContractEdge"
+                }
+            ],
+            "__typename": "ContractConnection"
+        }
+    }
+}
