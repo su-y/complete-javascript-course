@@ -27,5 +27,3 @@ Person.prototype.calculateAge = function() {
  john.calculateAge();
  jane.calculateAge();
  mark.calculateAge();
-
- 
