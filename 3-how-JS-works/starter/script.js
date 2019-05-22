@@ -1,34 +1,27 @@
+// let name = `John`;
 
-
-
-// function calcAge(year) {
-//     console.log(2016-year);
-//     console.log(this);
+// function first() {
+//     var a = `Hello!`;
+//     second();
+//     var x = a + name;
 // }
 
-// calcAge(1985);
+// function second() {
+//     let b = `Hi!`;
+//     third();
+//     var z = c + name;
+// }
 
+// function third() {
+//     var c = `Hey!`;
+//     var z = c + name;
+//     }
 
-let john = {
-    name: `John`,
-    yearOfBirth: 1990,
-    calcAge: function () {
-        console.log(this);
-        console.log(2018-this.yearOfBirth);
-        // function innerFunct() {
-        //     console.log(this);            
-        // }
-        // innerFunct();
-    }
-};
+// first();
 
-john.calcAge(); 
-
-let mike = {
-    name: `Mike`,
-    yearOfBirth: 1984,
+let derp = function calculateAge(year) {
+    console.log(2016-year);
+    
 }
 
-mike.calcAge = john.calcAge;
-
-mike.calcAge();
+calculateAge(1990);
