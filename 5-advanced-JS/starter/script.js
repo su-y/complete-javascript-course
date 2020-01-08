@@ -19,28 +19,98 @@ c) correct answer (I would use a number for this)
 */
 
 
+// Globals
+
+function ranDom(min, max) {
+    return Math.floor(Math.random() * (max - min) ) + min;
+  }
+  
+
+
 // Question constrcutor
 
 let Question = function (question, answers, rightAnswer) {
     this.question = question;
     this.answers = answers;
     this.rightAnswer = rightAnswer;
-    this.questionArray = function() {
-        questions.push(this);
+};
+
+// Question Methods
+
+Question.prototype.displayQuestion = function () {
+    console.log(this.question);
+}
+
+Question.prototype.displayAnswers = function() {
+    for (let i = 0; i < this.answers.length; i++) {
+        console.log(i + `. ` + this.answers[i]);
+    };
+}
+
+
+Question.prototype.checkAnswer = function(ans) {
+    ans = parseInt(ans);
+    if (ans === this.rightAnswer) {
+        console.log(`You are right, tis ${this.answers[ans]}`);
+        console.log(scoreCounter());
+    } else {
+        console.log(`You are quite wrong, tis ${this.rightAnswer}`);
+    }; 
+};
+
+let scoreCounter = scoreEnClosure();
+
+
+   function scoreEnClosure() {
+        let score = 0;
+        function scoreCounter() {
+            score++;
+            return score;
+        };
+        return scoreCounter;
+    };
+
+
+
+// Pushing Questions to Array
+
+
+let q1 = (new Question('Whats the design systems color?',['Yellow', 'Blue', 'Red', 'Tediuos'], 2));
+
+let q2 = (new Question('What are the yard decorations?',['Chestnuts', 'Leafs',`Crayons` ,'Dunno'], 1));
+
+let q3 = (new Question('Which pictures are missing?',['The car', 'The sea', 'The fish', `The airfield`], 3));
+
+let questionArray =  [q1, q2, q3];
+
+// Putting stuff together
+
+function nextQuestion()  {
+    let n = ranDom(0, questionArray.length - 1);
+    questionArray[n].displayQuestion();
+    questionArray[n].displayAnswers();
+    let ans = prompt(`Enter your answer or type "exit" to exit`);
+
+    if (ans !== `exit`) {
+        questionArray[n].checkAnswer(ans);
+        console.log(`- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - `);
+        nextQuestion();
+    } else {
+        console.log('Game over');
     };
 };
 
-let questions = [];
+nextQuestion();
 
 
 
 
 
-questionOne = new Question('Whats the design systems color?',['Yellow', 'Blue', 'Red', 'Tediuos'], 2);
-console.log(questionOne);
 
-questionOne.questionArray();
-console.log(questions);
+
+
+
+
 
 
 
